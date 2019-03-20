@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0900"
+   LastUpgradeVersion = "1010"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C98F6E91F37160A0007317F"
+               BlueprintIdentifier = "CC78E5AD22414AD900FD8957"
                BuildableName = "Corridor.framework"
-               BlueprintName = "Corridor"
+               BlueprintName = "Corridor-watchOS"
                ReferencedContainer = "container:Corridor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -26,7 +26,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
@@ -37,7 +36,6 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -47,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9C98F6E91F37160A0007317F"
+            BlueprintIdentifier = "CC78E5AD22414AD900FD8957"
             BuildableName = "Corridor.framework"
-            BlueprintName = "Corridor"
+            BlueprintName = "Corridor-watchOS"
             ReferencedContainer = "container:Corridor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -65,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9C98F6E91F37160A0007317F"
+            BlueprintIdentifier = "CC78E5AD22414AD900FD8957"
             BuildableName = "Corridor.framework"
-            BlueprintName = "Corridor"
+            BlueprintName = "Corridor-watchOS"
             ReferencedContainer = "container:Corridor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
